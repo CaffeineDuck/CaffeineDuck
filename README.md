@@ -38,8 +38,8 @@
 
 ## Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=samrid-pandit&theme=midnight-purple&count_private=true&show_icons=true" height=200>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samrid-pandit&langs_count=3&theme=midnight-purple&show_icons=true&hide=html,css,glsl" height=200>
+<img src="https://github-readme-stats.vercel.app/api?username=CaffeineDuck&theme=midnight-purple&count_private=true&show_icons=true" height=200>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaffeineDuck&langs_count=3&theme=midnight-purple&show_icons=true&hide=html,css,glsl" height=200>
 
 
 
