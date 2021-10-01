@@ -1,5 +1,5 @@
 
-<!-- Credit: https://github.com/regmicmahesh/regmicmahesh -->
+ # Credit: [Most Handsome DevOps](https://github.com/regmicmahesh/regmicmahesh)
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width=300 />
 
