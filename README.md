@@ -1,50 +1,49 @@
+<pre>
+  ___   _      ___   _      ___   _      ___   _      ___   _
+ [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|
+  '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|
+ /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /
+       |____________|____________|____________|____________|
+                             |            |            |
+                         ___  \_      ___  \_      ___  \_
+                        [(_)] |=|    [(_)] |=|    [(_)] |=|
+                         '-`  |_|     '-`  |_|     '-`  |_|
+                        /mmm/        /mmm/        /mmm/
 
+┌──┤ WHOAMI ├─────────▰▰▰
+│
+├─▣ Backend Engineer
+├─▣ Indentation Enjoyer
+├─▣ Async Awaiter 
+├─▣ Rust Cult Member
+├─▣ Hackathons Speed-Runner
+├─▣ Student
+│
+└───────────────────────────────▰▰▰
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width=300 />
+┌──┤ SOCIAL ├─────────▰▰▰
+│
+├─◈ <a href="https://twitter.com/Caffe1neDuck">Twitter</a>
+├─◈ <a href="https://linkedin.com/in/CaffeineDuck">Linkedin</a>
+├─◈ <a href="https://facebook.com/CaffeineDuck">Facebook</a>
+├─◈ <a href="mailto:hello@samrid.me">E-Mail</a>
+│
+└───────────────────────────────▰▰▰
 
-<img src="https://img.shields.io/badge/-Samrid%20Pandit.-red?style=for-the-badge" width=400>
+┌──┤ RECENT BLOGS ├───────▰▰▰
+│
+├─◈ <a href="https://blog.samrid.me/handling-the-fear-of-asynchronous-file-handling-in-python">Asynchronous file handling | Async | Python</a>
+├─◈ <a href="https://blog.samrid.me/how-to-convert-the-type-of-functions-arguments-in-python-at-runtime">Convert argument's type at runtime | Typehints | Python</a>
+├─◈ <a href="https://blog.samrid.me/how-to-save-python-objects-in-redis">Save python objects in redis | Redis | Python </a>
+├─◈ <a href="https://blog.samrid.me/creating-a-python-module-for-nepal-stock-exchange-api">Creating a pypi module for NEPSE | Async | Python</a>
+│
+└───────────────────────────────▰▰▰
 
-<img src="https://img.shields.io/badge/-I%20know%20that%20I%20don't%20know.-black?style=for-the-badge" width=400>
+┌──┤ RECENT SESSIONS ├───────▰▰▰
+│
+├─▣ Month long Python Bootcamp on DRCFS
+│
+└───────────────────────────────▰▰▰
+</pre>
 
-## Connect With Me
-
-<a href="mailto:samrid.pandit@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a> 
-<a href="https://facebook.com/samrid.pandit12">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-</a> 
-
-
-
-## Skills
-
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
-![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
-![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=CaffeineDuck&theme=midnight-purple&count_private=true&show_icons=true" height=200>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaffeineDuck&langs_count=3&theme=midnight-purple&show_icons=true&hide=html,css,glsl" height=200>
-
-
-
-## My Articles
-
-<img src="https://img.shields.io/badge/Python-%20Creating%20and%20maintaining%20asynchronous%20python%20module.-brightgreen?style=for-the-badge" width="500">
-
-
-### Credit: [Most Handsome DevOps](https://github.com/regmicmahesh/regmicmahesh)
+<!-- Inspiration for this README was taken from https://github.com/thewhiteh4t/thewhiteh4t/tree/4e5b03f650c4f3622cd4292a203d06f71588fb3f -->
