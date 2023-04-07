@@ -32,10 +32,10 @@
 
 ┌──┤ RECENT BLOGS ├───────▰▰▰
 │
+├─◈ <a href="https://blog.samrid.me/data-race-in-python-despite-gil">GIL and Data Races | GIL | Python</a>
 ├─◈ <a href="https://blog.samrid.me/handling-the-fear-of-asynchronous-file-handling-in-python">Asynchronous file handling | Async | Python</a>
 ├─◈ <a href="https://blog.samrid.me/how-to-convert-the-type-of-functions-arguments-in-python-at-runtime">Convert argument's type at runtime | Typehints | Python</a>
 ├─◈ <a href="https://blog.samrid.me/how-to-save-python-objects-in-redis">Save python objects in redis | Redis | Python </a>
-├─◈ <a href="https://blog.samrid.me/creating-a-python-module-for-nepal-stock-exchange-api">Creating a pypi module for NEPSE | Async | Python</a>
 │
 └───────────────────────────────▰▰▰
 
