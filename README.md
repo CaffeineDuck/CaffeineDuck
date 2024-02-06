@@ -23,7 +23,7 @@
 
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
-├─◈ <a href="https://twitter.com/Caffe1neDuck">Twitter</a>
+├─◈ <a href="https://samrid.me">Website</a>
 ├─◈ <a href="https://linkedin.com/in/CaffeineDuck">Linkedin</a>
 ├─◈ <a href="https://facebook.com/CaffeineDuck">Facebook</a>
 ├─◈ <a href="mailto:hello@samrid.me">E-Mail</a>
